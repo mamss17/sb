@@ -14,7 +14,7 @@ botStart = time.time()
 
 cl = LINE()
 #cl = LINE("TOKENMU")
-#cl = LINE("Email","Password")
+#cl = LINE("persija1917@gmail.com","Kalibata123")
 #cl = LINE()
 cl.log("Auth Token : " + str(cl.authToken))
 channelToken = cl.getChannelResult()
